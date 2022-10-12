@@ -1,2 +1,3 @@
+artifacts/
+logs/
 venv/
-ansible-navigator.log

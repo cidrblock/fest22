@@ -5,4 +5,15 @@
     ansible.scm.git_here:
       origin:
         url: git@github.com:cidrblock/fest22.git
+    register: cloned_repo
+
+  - name: Collect sample json from a REST API
+    ansible.builtin.get_url:
+      url: https://random-data-api.com/api/beer/random_beer
+      dest: "{{ cloned_repo['path'] }}/response.json"
+      mode: 0644
+
+  - name: Pust the changes back to the origin repository
+    ansible.scm.git_away:
+      path: "{{ cloned_repo['path'] }}"
 

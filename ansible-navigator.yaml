@@ -127,10 +127,10 @@ ansible-navigator:
 #     # otherwise a new log file will be created per session
     append: False
 #     # Specify the full path for the ansible-navigator log file
-#     file: $PWD/ansible-navigator.log
+    file: ./logs/ansible-navigator.log
 #   # Specify the user-interface mode
 #   mode: interactive
-#   playbook-artifact:
+  playbook-artifact:
 #     # Enable or disable the creation of artifacts for completed playbooks.
 #     # Note: not compatible with '--mode stdout' when playbooks require user
 #     # input
@@ -140,7 +140,7 @@ ansible-navigator:
 #     # Specify the name for artifacts created from completed playbooks.The
 #     # following placeholders are available: {playbook_dir}, {playbook_name},
 #     # {playbook_status}, and {time_stamp}
-#     save-as: "{playbook_dir}/{playbook_name}-artifact-{time_stamp}.json"
+    save-as: "./artifacts/{playbook_dir}/{playbook_name}-artifact-{time_stamp}.json"
 #   settings:
 #     # Show the effective settings. Defaults, CLI parameters, environment
 #     # variables, and the settings file will be combined

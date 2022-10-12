@@ -1,0 +1,399 @@
+2022-10-12T11:51:24.497621+00:00 INFO 'ansible_navigator.setup_logger' New ansible-navigator instance, logging initialized
+2022-10-12T11:51:24.497924+00:00 INFO 'ansible_navigator.setup_logger' New ansible-runner instance, logging initialized
+2022-10-12T11:51:24.497975+00:00 DEBUG 'ansible_navigator.main' ansible-builder==1.1.0 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498008+00:00 DEBUG 'ansible_navigator.main' ansible-navigator==2.2.0 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498039+00:00 DEBUG 'ansible_navigator.main' ansible-runner==2.2.1 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498066+00:00 DEBUG 'ansible_navigator.main' attrs==22.1.0 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498094+00:00 DEBUG 'ansible_navigator.main' bindep==2.11.0 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498131+00:00 DEBUG 'ansible_navigator.main' cffi==1.15.1 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498161+00:00 DEBUG 'ansible_navigator.main' distro==1.8.0 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498188+00:00 DEBUG 'ansible_navigator.main' docutils==0.19 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498214+00:00 DEBUG 'ansible_navigator.main' jinja2==3.1.2 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498240+00:00 DEBUG 'ansible_navigator.main' jsonschema==4.16.0 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498267+00:00 DEBUG 'ansible_navigator.main' lockfile==0.12.2 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498293+00:00 DEBUG 'ansible_navigator.main' markupsafe==2.1.1 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498319+00:00 DEBUG 'ansible_navigator.main' onigurumacffi==1.2.0 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498347+00:00 DEBUG 'ansible_navigator.main' packaging==21.3 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498373+00:00 DEBUG 'ansible_navigator.main' parsley==1.3 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498399+00:00 DEBUG 'ansible_navigator.main' pbr==5.10.0 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498425+00:00 DEBUG 'ansible_navigator.main' pexpect==4.8.0 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498450+00:00 DEBUG 'ansible_navigator.main' pip==21.3.1 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498476+00:00 DEBUG 'ansible_navigator.main' ptyprocess==0.7.0 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498502+00:00 DEBUG 'ansible_navigator.main' pycparser==2.21 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498528+00:00 DEBUG 'ansible_navigator.main' pyparsing==3.0.9 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498554+00:00 DEBUG 'ansible_navigator.main' pyrsistent==0.18.1 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498579+00:00 DEBUG 'ansible_navigator.main' python-daemon==2.3.1 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498605+00:00 DEBUG 'ansible_navigator.main' pyyaml==6.0 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498630+00:00 DEBUG 'ansible_navigator.main' requirements-parser==0.5.0 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498656+00:00 DEBUG 'ansible_navigator.main' setuptools==59.6.0 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498682+00:00 DEBUG 'ansible_navigator.main' six==1.16.0 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498715+00:00 DEBUG 'ansible_navigator.main' types-setuptools==65.4.0.0 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498742+00:00 DEBUG 'ansible_navigator.main' tzdata==2022.4 /home/bthornto/github/fest22/venv/lib/python3.10/site-packages
+2022-10-12T11:51:24.498768+00:00 DEBUG 'ansible_navigator.main' Share directory '/home/bthornto/github/fest22/venv/lib64/python3.10/share/ansible_navigator' not found (development path)
+2022-10-12T11:51:24.498795+00:00 DEBUG 'ansible_navigator.main' Share directory '/home/bthornto/.local/share/ansible_navigator' not found (userbase)
+2022-10-12T11:51:24.498821+00:00 DEBUG 'ansible_navigator.main' Share directory '/home/bthornto/github/fest22/venv/share/ansible_navigator' found (sys.prefix)
+2022-10-12T11:51:24.498847+00:00 DEBUG 'ansible_navigator.main' Default collection_doc_cache_path set to: /home/bthornto/.cache/ansible-navigator/collection_doc_cache.db
+2022-10-12T11:51:24.498873+00:00 DEBUG 'ansible_navigator.main' EDITOR environment variable set as '/usr/bin/nano'
+2022-10-12T11:51:24.498913+00:00 DEBUG 'ansible_navigator.main' Default editor_command set to: /usr/bin/nano {filename}
+2022-10-12T11:51:24.498958+00:00 DEBUG 'ansible_navigator.main' No config file set by ANSIBLE_NAVIGATOR_CONFIG
+2022-10-12T11:51:24.499006+00:00 DEBUG 'ansible_navigator.main' Looking in /home/bthornto
+2022-10-12T11:51:24.499054+00:00 DEBUG 'ansible_navigator.main' Looking for '/home/bthornto/.ansible-navigator.yml', '/home/bthornto/.ansible-navigator.yaml' and '/home/bthornto/.ansible-navigator.json'
+2022-10-12T11:51:24.499103+00:00 DEBUG 'ansible_navigator.main' Found 0: 
+2022-10-12T11:51:24.499160+00:00 DEBUG 'ansible_navigator.main' Looking in /home/bthornto/github/fest22
+2022-10-12T11:51:24.499208+00:00 DEBUG 'ansible_navigator.main' Looking for '/home/bthornto/github/fest22/ansible-navigator.yml', '/home/bthornto/github/fest22/ansible-navigator.yaml' and '/home/bthornto/github/fest22/ansible-navigator.json'
+2022-10-12T11:51:24.499270+00:00 DEBUG 'ansible_navigator.main' Found 1: '/home/bthornto/github/fest22/ansible-navigator.yaml'
+2022-10-12T11:51:24.499319+00:00 DEBUG 'ansible_navigator.main' All found 1: '/home/bthornto/github/fest22/ansible-navigator.yaml'
+2022-10-12T11:51:24.499368+00:00 DEBUG 'ansible_navigator.main' Using: /home/bthornto/github/fest22/ansible-navigator.yaml
+2022-10-12T11:51:24.499418+00:00 DEBUG 'ansible_navigator.main' Using settings file at /home/bthornto/github/fest22/ansible-navigator.yaml in search path
+2022-10-12T11:51:24.499466+00:00 DEBUG 'ansible_navigator.main' Command provided: 'run site.yaml'
+2022-10-12T11:51:24.499516+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.ansible-runner.artifact-dir not found in settings file
+2022-10-12T11:51:24.499566+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.ansible-runner.rotate-artifacts-count not found in settings file
+2022-10-12T11:51:24.499615+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.ansible-runner.timeout not found in settings file
+2022-10-12T11:51:24.499663+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.app not found in settings file
+2022-10-12T11:51:24.499712+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.ansible.cmdline not found in settings file
+2022-10-12T11:51:24.499761+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.collection-doc-cache-path not found in settings file
+2022-10-12T11:51:24.499810+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.ansible.config.path not found in settings file
+2022-10-12T11:51:24.499858+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.execution-environment.container-engine not found in settings file
+2022-10-12T11:51:24.499907+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.execution-environment.container-options not found in settings file
+2022-10-12T11:51:24.499956+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.color.enable not found in settings file
+2022-10-12T11:51:24.500005+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.exec.command not found in settings file
+2022-10-12T11:51:24.500060+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.exec.shell not found in settings file
+2022-10-12T11:51:24.500110+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.execution-environment.enabled not found in settings file
+2022-10-12T11:51:24.500167+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.execution-environment.volume-mounts not found in settings file
+2022-10-12T11:51:24.500216+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.ansible-builder.help not found in settings file
+2022-10-12T11:51:24.500280+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.ansible.config.help not found in settings file
+2022-10-12T11:51:24.500331+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.ansible.doc.help not found in settings file
+2022-10-12T11:51:24.500383+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.ansible.inventory.help not found in settings file
+2022-10-12T11:51:24.500434+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.ansible.playbook.help not found in settings file
+2022-10-12T11:51:24.500486+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.images.details not found in settings file
+2022-10-12T11:51:24.500537+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.ansible.inventory.entries not found in settings file
+2022-10-12T11:51:24.500592+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.inventory-columns not found in settings file
+2022-10-12T11:51:24.500645+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.ansible-lint.config not found in settings file
+2022-10-12T11:51:24.500696+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.ansible-lint.lintables not found in settings file
+2022-10-12T11:51:24.500748+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.logging.file not found in settings file
+2022-10-12T11:51:24.500799+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.mode not found in settings file
+2022-10-12T11:51:24.500851+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.color.osc4 not found in settings file
+2022-10-12T11:51:24.500903+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.execution-environment.environment-variables.pass not found in settings file
+2022-10-12T11:51:24.500955+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.ansible.playbook.path not found in settings file
+2022-10-12T11:51:24.501006+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.playbook-artifact.enable not found in settings file
+2022-10-12T11:51:24.501058+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.playbook-artifact.replay not found in settings file
+2022-10-12T11:51:24.501109+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.playbook-artifact.save-as not found in settings file
+2022-10-12T11:51:24.501169+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.ansible.doc.plugin.name not found in settings file
+2022-10-12T11:51:24.501221+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.ansible.doc.plugin.type not found in settings file
+2022-10-12T11:51:24.501273+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.execution-environment.pull.arguments not found in settings file
+2022-10-12T11:51:24.501333+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.execution-environment.environment-variables.set not found in settings file
+2022-10-12T11:51:24.501379+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.settings.effective not found in settings file
+2022-10-12T11:51:24.501424+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.settings.sample not found in settings file
+2022-10-12T11:51:24.501469+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.settings.schema not found in settings file
+2022-10-12T11:51:24.501513+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.settings.sources not found in settings file
+2022-10-12T11:51:24.501559+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.time-zone not found in settings file
+2022-10-12T11:51:24.501604+00:00 DEBUG 'ansible_navigator.main' ansible-navigator.ansible-builder.workdir not found in settings file
+2022-10-12T11:51:24.501653+00:00 DEBUG 'ansible_navigator.main' EE support enabled: using current working directory for 'ansible.cfg'
+2022-10-12T11:51:24.501699+00:00 INFO 'ansible_navigator.main' EE support enabled: no 'ansible.cfg' found in current working directory. Tried /home/bthornto/github/fest22/ansible.cfg
+2022-10-12T11:51:24.501744+00:00 DEBUG 'ansible_navigator.main' Completed post processing for ansible_runner_artifact_dir. (changed=False)
+2022-10-12T11:51:24.501789+00:00 DEBUG 'ansible_navigator.main' Completed post processing for ansible_runner_rotate_artifacts_count. (changed=False)
+2022-10-12T11:51:24.501834+00:00 DEBUG 'ansible_navigator.main' Completed post processing for ansible_runner_timeout. (changed=False)
+2022-10-12T11:51:24.501879+00:00 DEBUG 'ansible_navigator.main' Completed post processing for cmdline. (changed=False)
+2022-10-12T11:51:24.501925+00:00 DEBUG 'ansible_navigator.main' Completed post processing for collection_doc_cache_path. (changed=False)
+2022-10-12T11:51:24.501970+00:00 DEBUG 'ansible_navigator.main' Completed post processing for container_engine. (changed=True)
+2022-10-12T11:51:24.502015+00:00 DEBUG 'ansible_navigator.main'  before: 'auto'
+2022-10-12T11:51:24.502060+00:00 DEBUG 'ansible_navigator.main'  after: 'podman'
+2022-10-12T11:51:24.502105+00:00 DEBUG 'ansible_navigator.main' Completed post processing for container_options. (changed=False)
+2022-10-12T11:51:24.502166+00:00 DEBUG 'ansible_navigator.main' Completed post processing for display_color. (changed=False)
+2022-10-12T11:51:24.502212+00:00 DEBUG 'ansible_navigator.main' Completed post processing for execution_environment. (changed=False)
+2022-10-12T11:51:24.502257+00:00 DEBUG 'ansible_navigator.main' Completed post processing for execution_environment_image. (changed=True)
+2022-10-12T11:51:24.502302+00:00 DEBUG 'ansible_navigator.main'  before: 'localhost/fest22'
+2022-10-12T11:51:24.502348+00:00 DEBUG 'ansible_navigator.main'  after: 'localhost/fest22:latest'
+2022-10-12T11:51:24.502393+00:00 DEBUG 'ansible_navigator.main' Completed post processing for help_builder. (changed=False)
+2022-10-12T11:51:24.502438+00:00 DEBUG 'ansible_navigator.main' Completed post processing for help_config. (changed=False)
+2022-10-12T11:51:24.502483+00:00 DEBUG 'ansible_navigator.main' Completed post processing for help_doc. (changed=False)
+2022-10-12T11:51:24.502528+00:00 DEBUG 'ansible_navigator.main' Completed post processing for help_inventory. (changed=False)
+2022-10-12T11:51:24.502573+00:00 DEBUG 'ansible_navigator.main' Completed post processing for help_playbook. (changed=False)
+2022-10-12T11:51:24.502618+00:00 DEBUG 'ansible_navigator.main' Completed post processing for images_details. (changed=False)
+2022-10-12T11:51:24.502663+00:00 DEBUG 'ansible_navigator.main' Completed post processing for inventory. (changed=False)
+2022-10-12T11:51:24.502708+00:00 DEBUG 'ansible_navigator.main' Completed post processing for inventory_column. (changed=False)
+2022-10-12T11:51:24.502753+00:00 DEBUG 'ansible_navigator.main' Completed post processing for log_file. (changed=False)
+2022-10-12T11:51:24.502798+00:00 DEBUG 'ansible_navigator.main' Completed post processing for pass_environment_variable. (changed=False)
+2022-10-12T11:51:24.502842+00:00 DEBUG 'ansible_navigator.main' Completed post processing for playbook. (changed=True)
+2022-10-12T11:51:24.502887+00:00 DEBUG 'ansible_navigator.main'  before: 'site.yaml'
+2022-10-12T11:51:24.502932+00:00 DEBUG 'ansible_navigator.main'  after: '/home/bthornto/github/fest22/site.yaml'
+2022-10-12T11:51:24.502977+00:00 DEBUG 'ansible_navigator.main' Completed post processing for playbook_artifact_replay. (changed=False)
+2022-10-12T11:51:24.503021+00:00 DEBUG 'ansible_navigator.main' Completed post processing for playbook_artifact_save_as. (changed=False)
+2022-10-12T11:51:24.503066+00:00 DEBUG 'ansible_navigator.main' Completed post processing for plugin_name. (changed=False)
+2022-10-12T11:51:24.503111+00:00 DEBUG 'ansible_navigator.main' Completed post processing for pull_arguments. (changed=False)
+2022-10-12T11:51:24.503173+00:00 DEBUG 'ansible_navigator.main' Completed post processing for set_environment_variable. (changed=False)
+2022-10-12T11:51:24.503219+00:00 DEBUG 'ansible_navigator.main' Completed post processing for settings_effective. (changed=False)
+2022-10-12T11:51:24.503265+00:00 DEBUG 'ansible_navigator.main' Completed post processing for settings_sample. (changed=False)
+2022-10-12T11:51:24.503310+00:00 DEBUG 'ansible_navigator.main' Completed post processing for settings_schema. (changed=False)
+2022-10-12T11:51:24.503356+00:00 DEBUG 'ansible_navigator.main' Completed post processing for settings_sources. (changed=False)
+2022-10-12T11:51:24.503400+00:00 DEBUG 'ansible_navigator.main' Completed post processing for time_zone. (changed=False)
+2022-10-12T11:51:24.503445+00:00 DEBUG 'ansible_navigator.main' Completed post processing for execution_environment_volume_mounts. (changed=False)
+2022-10-12T11:51:24.503491+00:00 DEBUG 'ansible_navigator.main' Completed post processing for mode. (changed=False)
+2022-10-12T11:51:24.503537+00:00 DEBUG 'ansible_navigator.main' Collection doc cache not mounted
+2022-10-12T11:51:24.503582+00:00 DEBUG 'ansible_navigator.main' Collection doc cache: 'path' is '/home/bthornto/.cache/ansible-navigator/collection_doc_cache.db'
+2022-10-12T11:51:24.503628+00:00 DEBUG 'ansible_navigator.main' Collection doc cache: 'current version' is '1.0'
+2022-10-12T11:51:24.503673+00:00 DEBUG 'ansible_navigator.main' Collection doc cache not attached to args.internals
+2022-10-12T11:51:24.503718+00:00 DEBUG 'ansible_navigator.main' Running with ansible_runner_artifact_dir as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.503763+00:00 DEBUG 'ansible_navigator.main' Running with ansible_runner_rotate_artifacts_count as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.503809+00:00 DEBUG 'ansible_navigator.main' Running with ansible_runner_timeout as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.503854+00:00 DEBUG 'ansible_navigator.main' Running with app as 'run' (str/Command line)
+2022-10-12T11:51:24.503899+00:00 DEBUG 'ansible_navigator.main' Running with cmdline as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.503944+00:00 DEBUG 'ansible_navigator.main' Running with collection_doc_cache_path as '/home/bthornto/.cache/ansible-navigator/collection_doc_cache.db' (str/Defaults)
+2022-10-12T11:51:24.503990+00:00 DEBUG 'ansible_navigator.main' Running with config as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.504035+00:00 DEBUG 'ansible_navigator.main' Running with container_engine as 'podman' (str/Automatically determined)
+2022-10-12T11:51:24.504080+00:00 DEBUG 'ansible_navigator.main' Running with container_options as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.504132+00:00 DEBUG 'ansible_navigator.main' Running with display_color as 'True' (bool/Defaults)
+2022-10-12T11:51:24.504179+00:00 DEBUG 'ansible_navigator.main' Running with editor_command as 'code -g {filename}:{line_number}' (str/Settings file)
+2022-10-12T11:51:24.504237+00:00 DEBUG 'ansible_navigator.main' Running with editor_console as 'False' (bool/Settings file)
+2022-10-12T11:51:24.504285+00:00 DEBUG 'ansible_navigator.main' Running with exec_command as '/bin/bash' (str/Defaults)
+2022-10-12T11:51:24.504332+00:00 DEBUG 'ansible_navigator.main' Running with exec_shell as 'True' (bool/Defaults)
+2022-10-12T11:51:24.504380+00:00 DEBUG 'ansible_navigator.main' Running with execution_environment as 'True' (bool/Defaults)
+2022-10-12T11:51:24.504427+00:00 DEBUG 'ansible_navigator.main' Running with execution_environment_image as 'localhost/fest22:latest' (str/Settings file)
+2022-10-12T11:51:24.504474+00:00 DEBUG 'ansible_navigator.main' Running with execution_environment_volume_mounts as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.504522+00:00 DEBUG 'ansible_navigator.main' Running with help_builder as 'False' (bool/Defaults)
+2022-10-12T11:51:24.504570+00:00 DEBUG 'ansible_navigator.main' Running with help_config as 'False' (bool/Defaults)
+2022-10-12T11:51:24.504618+00:00 DEBUG 'ansible_navigator.main' Running with help_doc as 'False' (bool/Defaults)
+2022-10-12T11:51:24.504672+00:00 DEBUG 'ansible_navigator.main' Running with help_inventory as 'False' (bool/Defaults)
+2022-10-12T11:51:24.504720+00:00 DEBUG 'ansible_navigator.main' Running with help_playbook as 'False' (bool/Defaults)
+2022-10-12T11:51:24.504768+00:00 DEBUG 'ansible_navigator.main' Running with images_details as '['everything']' (list/Defaults)
+2022-10-12T11:51:24.504815+00:00 DEBUG 'ansible_navigator.main' Running with inventory as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.504862+00:00 DEBUG 'ansible_navigator.main' Running with inventory_column as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.504910+00:00 DEBUG 'ansible_navigator.main' Running with lint_config as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.504958+00:00 DEBUG 'ansible_navigator.main' Running with lintables as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.505005+00:00 DEBUG 'ansible_navigator.main' Running with log_append as 'False' (bool/Settings file)
+2022-10-12T11:51:24.505052+00:00 DEBUG 'ansible_navigator.main' Running with log_file as '/home/bthornto/github/fest22/ansible-navigator.log' (str/Defaults)
+2022-10-12T11:51:24.505099+00:00 DEBUG 'ansible_navigator.main' Running with log_level as 'debug' (str/Settings file)
+2022-10-12T11:51:24.505153+00:00 DEBUG 'ansible_navigator.main' Running with mode as 'interactive' (str/Defaults)
+2022-10-12T11:51:24.505200+00:00 DEBUG 'ansible_navigator.main' Running with osc4 as 'True' (bool/Defaults)
+2022-10-12T11:51:24.505260+00:00 DEBUG 'ansible_navigator.main' Running with pass_environment_variable as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.505305+00:00 DEBUG 'ansible_navigator.main' Running with playbook as '/home/bthornto/github/fest22/site.yaml' (str/Command line)
+2022-10-12T11:51:24.505351+00:00 DEBUG 'ansible_navigator.main' Running with playbook_artifact_enable as 'True' (bool/Defaults)
+2022-10-12T11:51:24.505395+00:00 DEBUG 'ansible_navigator.main' Running with playbook_artifact_replay as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.505440+00:00 DEBUG 'ansible_navigator.main' Running with playbook_artifact_save_as as '{playbook_dir}/{playbook_name}-artifact-{time_stamp}.json' (str/Defaults)
+2022-10-12T11:51:24.505486+00:00 DEBUG 'ansible_navigator.main' Running with plugin_name as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.505530+00:00 DEBUG 'ansible_navigator.main' Running with plugin_type as 'module' (str/Defaults)
+2022-10-12T11:51:24.505575+00:00 DEBUG 'ansible_navigator.main' Running with pull_arguments as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.505620+00:00 DEBUG 'ansible_navigator.main' Running with pull_policy as 'never' (str/Settings file)
+2022-10-12T11:51:24.505665+00:00 DEBUG 'ansible_navigator.main' Running with set_environment_variable as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.505709+00:00 DEBUG 'ansible_navigator.main' Running with settings_effective as 'False' (bool/Defaults)
+2022-10-12T11:51:24.505754+00:00 DEBUG 'ansible_navigator.main' Running with settings_sample as 'False' (bool/Defaults)
+2022-10-12T11:51:24.505799+00:00 DEBUG 'ansible_navigator.main' Running with settings_schema as 'json' (str/Defaults)
+2022-10-12T11:51:24.505844+00:00 DEBUG 'ansible_navigator.main' Running with settings_sources as 'False' (bool/Defaults)
+2022-10-12T11:51:24.505889+00:00 DEBUG 'ansible_navigator.main' Running with time_zone as 'UTC' (str/Defaults)
+2022-10-12T11:51:24.505934+00:00 DEBUG 'ansible_navigator.main' Running with workdir as '/home/bthornto/github/fest22' (str/Defaults)
+2022-10-12T11:51:24.506090+00:00 INFO 'ansible_navigator.image_manager.puller._log_message' Image tag is: latest
+2022-10-12T11:51:24.506175+00:00 DEBUG 'ansible_navigator.image_manager.puller._log_message' Command: podman image inspect localhost/fest22:latest
+2022-10-12T11:51:24.651526+00:00 DEBUG 'ansible_navigator.ui_framework.curses_window.__init__' self._ui_config: UIConfig(color=True, colors_initialized=False, grammar_dir='/home/bthornto/github/fest22/venv/share/ansible_navigator/grammar', osc4=True, terminal_colors_path='/home/bthornto/github/fest22/venv/share/ansible_navigator/themes/terminal_colors.json', theme_path='/home/bthornto/github/fest22/venv/share/ansible_navigator/themes/dark_vs.json')
+2022-10-12T11:51:24.651884+00:00 DEBUG 'ansible_navigator.ui_framework.curses_window._set_colors' curses.COLORS: 256
+2022-10-12T11:51:24.652074+00:00 DEBUG 'ansible_navigator.ui_framework.curses_window._set_colors' curses.can_change_color: True
+2022-10-12T11:51:24.652235+00:00 DEBUG 'ansible_navigator.ui_framework.curses_window._set_colors' term_osc4_support: True
+2022-10-12T11:51:24.652637+00:00 DEBUG 'ansible_navigator.ui_framework.curses_window._set_colors' Custom colors set
+2022-10-12T11:51:24.653604+00:00 DEBUG 'ansible_navigator.ui_framework.curses_window.__init__' self._ui_config: UIConfig(color=True, colors_initialized=True, grammar_dir='/home/bthornto/github/fest22/venv/share/ansible_navigator/grammar', osc4=True, terminal_colors_path='/home/bthornto/github/fest22/venv/share/ansible_navigator/themes/terminal_colors.json', theme_path='/home/bthornto/github/fest22/venv/share/ansible_navigator/themes/dark_vs.json')
+2022-10-12T11:51:24.673436+00:00 DEBUG 'ansible_navigator.actions.run.run' run requested in interactive mode
+2022-10-12T11:51:24.704554+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' No config file set by ANSIBLE_NAVIGATOR_CONFIG
+2022-10-12T11:51:24.704652+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Looking in /home/bthornto
+2022-10-12T11:51:24.704710+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Looking for '/home/bthornto/.ansible-navigator.yml', '/home/bthornto/.ansible-navigator.yaml' and '/home/bthornto/.ansible-navigator.json'
+2022-10-12T11:51:24.704764+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Found 0: 
+2022-10-12T11:51:24.704808+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Looking in /home/bthornto/github/fest22
+2022-10-12T11:51:24.704839+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Looking for '/home/bthornto/github/fest22/ansible-navigator.yml', '/home/bthornto/github/fest22/ansible-navigator.yaml' and '/home/bthornto/github/fest22/ansible-navigator.json'
+2022-10-12T11:51:24.704867+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Found 1: '/home/bthornto/github/fest22/ansible-navigator.yaml'
+2022-10-12T11:51:24.704893+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' All found 1: '/home/bthornto/github/fest22/ansible-navigator.yaml'
+2022-10-12T11:51:24.704930+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Using: /home/bthornto/github/fest22/ansible-navigator.yaml
+2022-10-12T11:51:24.704975+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Using settings file at /home/bthornto/github/fest22/ansible-navigator.yaml in search path
+2022-10-12T11:51:24.705025+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Command provided: 'run'
+2022-10-12T11:51:24.705082+00:00 INFO 'ansible_navigator.actions.run_e1fe._update_args' 'display_color' cannot be reconfigured. (restore original)
+2022-10-12T11:51:24.705141+00:00 INFO 'ansible_navigator.actions.run_e1fe._update_args' 'mode' cannot be reconfigured. (restore original)
+2022-10-12T11:51:24.705193+00:00 INFO 'ansible_navigator.actions.run_e1fe._update_args' 'display_color' cannot be reconfigured. (apply defaults)
+2022-10-12T11:51:24.705244+00:00 INFO 'ansible_navigator.actions.run_e1fe._update_args' 'mode' cannot be reconfigured. (apply defaults)
+2022-10-12T11:51:24.705293+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.ansible-runner.artifact-dir not found in settings file
+2022-10-12T11:51:24.705343+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.ansible-runner.rotate-artifacts-count not found in settings file
+2022-10-12T11:51:24.705394+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.ansible-runner.timeout not found in settings file
+2022-10-12T11:51:24.705443+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.app not found in settings file
+2022-10-12T11:51:24.705504+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.ansible.cmdline not found in settings file
+2022-10-12T11:51:24.705555+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.collection-doc-cache-path not found in settings file
+2022-10-12T11:51:24.705604+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.ansible.config.path not found in settings file
+2022-10-12T11:51:24.705656+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.execution-environment.container-engine not found in settings file
+2022-10-12T11:51:24.705705+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.execution-environment.container-options not found in settings file
+2022-10-12T11:51:24.705755+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.color.enable not found in settings file
+2022-10-12T11:51:24.705806+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.exec.command not found in settings file
+2022-10-12T11:51:24.705855+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.exec.shell not found in settings file
+2022-10-12T11:51:24.705904+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.execution-environment.enabled not found in settings file
+2022-10-12T11:51:24.705955+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.execution-environment.volume-mounts not found in settings file
+2022-10-12T11:51:24.706005+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.ansible-builder.help not found in settings file
+2022-10-12T11:51:24.706054+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.ansible.config.help not found in settings file
+2022-10-12T11:51:24.706105+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.ansible.doc.help not found in settings file
+2022-10-12T11:51:24.706163+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.ansible.inventory.help not found in settings file
+2022-10-12T11:51:24.706230+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.ansible.playbook.help not found in settings file
+2022-10-12T11:51:24.706293+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.images.details not found in settings file
+2022-10-12T11:51:24.706356+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.ansible.inventory.entries not found in settings file
+2022-10-12T11:51:24.706419+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.inventory-columns not found in settings file
+2022-10-12T11:51:24.706481+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.ansible-lint.config not found in settings file
+2022-10-12T11:51:24.706542+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.ansible-lint.lintables not found in settings file
+2022-10-12T11:51:24.706606+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.logging.file not found in settings file
+2022-10-12T11:51:24.706669+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.mode not found in settings file
+2022-10-12T11:51:24.706730+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.color.osc4 not found in settings file
+2022-10-12T11:51:24.706794+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.execution-environment.environment-variables.pass not found in settings file
+2022-10-12T11:51:24.706856+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.ansible.playbook.path not found in settings file
+2022-10-12T11:51:24.706918+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.playbook-artifact.enable not found in settings file
+2022-10-12T11:51:24.706989+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.playbook-artifact.replay not found in settings file
+2022-10-12T11:51:24.707052+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.playbook-artifact.save-as not found in settings file
+2022-10-12T11:51:24.707115+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.ansible.doc.plugin.name not found in settings file
+2022-10-12T11:51:24.707185+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.ansible.doc.plugin.type not found in settings file
+2022-10-12T11:51:24.707248+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.execution-environment.pull.arguments not found in settings file
+2022-10-12T11:51:24.707313+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.execution-environment.environment-variables.set not found in settings file
+2022-10-12T11:51:24.707378+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.settings.effective not found in settings file
+2022-10-12T11:51:24.707427+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.settings.sample not found in settings file
+2022-10-12T11:51:24.707478+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.settings.schema not found in settings file
+2022-10-12T11:51:24.707528+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.settings.sources not found in settings file
+2022-10-12T11:51:24.707577+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.time-zone not found in settings file
+2022-10-12T11:51:24.707628+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' ansible-navigator.ansible-builder.workdir not found in settings file
+2022-10-12T11:51:24.707678+00:00 INFO 'ansible_navigator.actions.run_e1fe._update_args' 'display_color' cannot be reconfigured (apply previous cli)
+2022-10-12T11:51:24.707728+00:00 INFO 'ansible_navigator.actions.run_e1fe._update_args' 'mode' cannot be reconfigured (apply previous cli)
+2022-10-12T11:51:24.707778+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' EE support enabled: using current working directory for 'ansible.cfg'
+2022-10-12T11:51:24.707829+00:00 INFO 'ansible_navigator.actions.run_e1fe._update_args' EE support enabled: no 'ansible.cfg' found in current working directory. Tried /home/bthornto/github/fest22/ansible.cfg
+2022-10-12T11:51:24.707879+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for ansible_runner_artifact_dir. (changed=False)
+2022-10-12T11:51:24.707929+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for ansible_runner_rotate_artifacts_count. (changed=False)
+2022-10-12T11:51:24.707979+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for ansible_runner_timeout. (changed=False)
+2022-10-12T11:51:24.708030+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for cmdline. (changed=False)
+2022-10-12T11:51:24.708079+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for collection_doc_cache_path. (changed=False)
+2022-10-12T11:51:24.708138+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for container_engine. (changed=True)
+2022-10-12T11:51:24.708188+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args'  before: 'auto'
+2022-10-12T11:51:24.708238+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args'  after: 'podman'
+2022-10-12T11:51:24.708288+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for container_options. (changed=False)
+2022-10-12T11:51:24.708339+00:00 INFO 'ansible_navigator.actions.run_e1fe._update_args' 'display_color' cannot be reconfigured. (post process)
+2022-10-12T11:51:24.708388+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for execution_environment. (changed=False)
+2022-10-12T11:51:24.708443+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for execution_environment_image. (changed=True)
+2022-10-12T11:51:24.708493+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args'  before: 'localhost/fest22'
+2022-10-12T11:51:24.708542+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args'  after: 'localhost/fest22:latest'
+2022-10-12T11:51:24.708593+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for help_builder. (changed=False)
+2022-10-12T11:51:24.708642+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for help_config. (changed=False)
+2022-10-12T11:51:24.708691+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for help_doc. (changed=False)
+2022-10-12T11:51:24.708742+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for help_inventory. (changed=False)
+2022-10-12T11:51:24.708791+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for help_playbook. (changed=False)
+2022-10-12T11:51:24.708840+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for images_details. (changed=False)
+2022-10-12T11:51:24.708890+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for inventory. (changed=False)
+2022-10-12T11:51:24.708939+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for inventory_column. (changed=False)
+2022-10-12T11:51:24.708988+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for log_file. (changed=False)
+2022-10-12T11:51:24.709039+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for pass_environment_variable. (changed=False)
+2022-10-12T11:51:24.709088+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for playbook. (changed=False)
+2022-10-12T11:51:24.709144+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for playbook_artifact_replay. (changed=False)
+2022-10-12T11:51:24.709194+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for playbook_artifact_save_as. (changed=False)
+2022-10-12T11:51:24.709243+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for plugin_name. (changed=False)
+2022-10-12T11:51:24.709294+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for pull_arguments. (changed=False)
+2022-10-12T11:51:24.709342+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for set_environment_variable. (changed=False)
+2022-10-12T11:51:24.709391+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for settings_effective. (changed=False)
+2022-10-12T11:51:24.709442+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for settings_sample. (changed=False)
+2022-10-12T11:51:24.709491+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for settings_schema. (changed=False)
+2022-10-12T11:51:24.709541+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for settings_sources. (changed=False)
+2022-10-12T11:51:24.709591+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for time_zone. (changed=False)
+2022-10-12T11:51:24.709641+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Completed post processing for execution_environment_volume_mounts. (changed=False)
+2022-10-12T11:51:24.709690+00:00 INFO 'ansible_navigator.actions.run_e1fe._update_args' 'mode' cannot be reconfigured. (post process)
+2022-10-12T11:51:24.709741+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Collection doc cache not mounted
+2022-10-12T11:51:24.709794+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Collection doc cache: 'path' is '/home/bthornto/.cache/ansible-navigator/collection_doc_cache.db'
+2022-10-12T11:51:24.709845+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Collection doc cache: 'current version' is '1.0'
+2022-10-12T11:51:24.709894+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Collection doc cache not attached to args.internals
+2022-10-12T11:51:24.709943+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with ansible_runner_artifact_dir as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.709993+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with ansible_runner_rotate_artifacts_count as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.710043+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with ansible_runner_timeout as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.710092+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with app as 'run' (str/Command line)
+2022-10-12T11:51:24.710148+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with cmdline as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.710198+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with collection_doc_cache_path as '/home/bthornto/.cache/ansible-navigator/collection_doc_cache.db' (str/Defaults)
+2022-10-12T11:51:24.710248+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with config as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.710298+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with container_engine as 'podman' (str/Automatically determined)
+2022-10-12T11:51:24.710347+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with container_options as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.710398+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with display_color as 'True' (bool/Defaults)
+2022-10-12T11:51:24.710447+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with editor_command as 'code -g {filename}:{line_number}' (str/Settings file)
+2022-10-12T11:51:24.710496+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with editor_console as 'False' (bool/Settings file)
+2022-10-12T11:51:24.710547+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with exec_command as '/bin/bash' (str/Defaults)
+2022-10-12T11:51:24.710596+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with exec_shell as 'True' (bool/Defaults)
+2022-10-12T11:51:24.710645+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with execution_environment as 'True' (bool/Defaults)
+2022-10-12T11:51:24.710695+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with execution_environment_image as 'localhost/fest22:latest' (str/Settings file)
+2022-10-12T11:51:24.710744+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with execution_environment_volume_mounts as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.710800+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with help_builder as 'False' (bool/Defaults)
+2022-10-12T11:51:24.710855+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with help_config as 'False' (bool/Defaults)
+2022-10-12T11:51:24.710904+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with help_doc as 'False' (bool/Defaults)
+2022-10-12T11:51:24.710954+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with help_inventory as 'False' (bool/Defaults)
+2022-10-12T11:51:24.711004+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with help_playbook as 'False' (bool/Defaults)
+2022-10-12T11:51:24.711053+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with images_details as '['everything']' (list/Defaults)
+2022-10-12T11:51:24.711104+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with inventory as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.711166+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with inventory_column as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.711216+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with lint_config as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.711266+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with lintables as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.711315+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with log_append as 'False' (bool/Settings file)
+2022-10-12T11:51:24.711364+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with log_file as '/home/bthornto/github/fest22/ansible-navigator.log' (str/Defaults)
+2022-10-12T11:51:24.711414+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with log_level as 'debug' (str/Settings file)
+2022-10-12T11:51:24.711463+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with mode as 'interactive' (str/Defaults)
+2022-10-12T11:51:24.711512+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with osc4 as 'True' (bool/Defaults)
+2022-10-12T11:51:24.711564+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with pass_environment_variable as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.711613+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with playbook as '/home/bthornto/github/fest22/site.yaml' (str/Previous cli command)
+2022-10-12T11:51:24.711662+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with playbook_artifact_enable as 'True' (bool/Defaults)
+2022-10-12T11:51:24.711711+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with playbook_artifact_replay as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.711760+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with playbook_artifact_save_as as '{playbook_dir}/{playbook_name}-artifact-{time_stamp}.json' (str/Defaults)
+2022-10-12T11:51:24.711810+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with plugin_name as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.711859+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with plugin_type as 'module' (str/Defaults)
+2022-10-12T11:51:24.711909+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with pull_arguments as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.711957+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with pull_policy as 'never' (str/Settings file)
+2022-10-12T11:51:24.712006+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with set_environment_variable as 'Not set' (Constants/Not set)
+2022-10-12T11:51:24.712056+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with settings_effective as 'False' (bool/Defaults)
+2022-10-12T11:51:24.712106+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with settings_sample as 'False' (bool/Defaults)
+2022-10-12T11:51:24.712161+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with settings_schema as 'json' (str/Defaults)
+2022-10-12T11:51:24.712212+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with settings_sources as 'False' (bool/Defaults)
+2022-10-12T11:51:24.712262+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with time_zone as 'UTC' (str/Defaults)
+2022-10-12T11:51:24.712311+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._update_args' Running with workdir as '/home/bthornto/github/fest22' (str/Defaults)
+2022-10-12T11:51:24.712808+00:00 DEBUG 'ansible_navigator.runner.base._set_private_data_directory' private data dir not user provided, used tmp location: /tmp/ansible-navigator_1i9jt10r
+2022-10-12T11:51:24.713030+00:00 DEBUG 'ansible_navigator.runner.base.generate_run_command_args' Runner arg: container_image:localhost/fest22:latest
+2022-10-12T11:51:24.713101+00:00 DEBUG 'ansible_navigator.runner.base.generate_run_command_args' Runner arg: process_isolation_executable:podman
+2022-10-12T11:51:24.713170+00:00 DEBUG 'ansible_navigator.runner.base.generate_run_command_args' Runner arg: process_isolation:True
+2022-10-12T11:51:24.713219+00:00 DEBUG 'ansible_navigator.runner.base.generate_run_command_args' Runner arg: container_volume_mounts:None
+2022-10-12T11:51:24.713284+00:00 DEBUG 'ansible_navigator.runner.base.generate_run_command_args' Runner arg: container_options:None
+2022-10-12T11:51:24.713335+00:00 DEBUG 'ansible_navigator.runner.base.generate_run_command_args' Runner arg: container_workdir:None
+2022-10-12T11:51:24.713396+00:00 DEBUG 'ansible_navigator.runner.base.generate_run_command_args' Runner arg: private_data_dir:/tmp/ansible-navigator_1i9jt10r
+2022-10-12T11:51:24.713459+00:00 DEBUG 'ansible_navigator.runner.base.generate_run_command_args' Runner arg: json_mode:True
+2022-10-12T11:51:24.713525+00:00 DEBUG 'ansible_navigator.runner.base.generate_run_command_args' Runner arg: quiet:True
+2022-10-12T11:51:24.713579+00:00 DEBUG 'ansible_navigator.runner.base.generate_run_command_args' Runner arg: cancel_callback:<bound method Base.runner_cancelled_callback of <ansible_navigator.runner.command_async.CommandAsync object at 0x7f5716b521a0>>
+2022-10-12T11:51:24.713656+00:00 DEBUG 'ansible_navigator.runner.base.generate_run_command_args' Runner arg: finished_callback:<bound method Base.runner_finished_callback of <ansible_navigator.runner.command_async.CommandAsync object at 0x7f5716b521a0>>
+2022-10-12T11:51:24.713718+00:00 DEBUG 'ansible_navigator.runner.base.generate_run_command_args' Runner arg: artifacts_handler:<bound method Base.runner_artifacts_handler of <ansible_navigator.runner.command_async.CommandAsync object at 0x7f5716b521a0>>
+2022-10-12T11:51:24.713774+00:00 DEBUG 'ansible_navigator.runner.base.generate_run_command_args' Runner arg: timeout:None
+2022-10-12T11:51:24.713825+00:00 DEBUG 'ansible_navigator.runner.base.generate_run_command_args' Runner arg: envvars:{}
+2022-10-12T11:51:24.713876+00:00 DEBUG 'ansible_navigator.runner.base.generate_run_command_args' Runner arg: host_cwd:/home/bthornto/github/fest22/
+2022-10-12T11:51:24.713932+00:00 DEBUG 'ansible_navigator.runner.base.generate_run_command_args' Runner arg: executable_cmd:ansible-playbook
+2022-10-12T11:51:24.713988+00:00 DEBUG 'ansible_navigator.runner.base.generate_run_command_args' Runner arg: cmdline_args:['/home/bthornto/github/fest22/site.yaml']
+2022-10-12T11:51:24.715643+00:00 DEBUG 'ansible-runner._handle_command_wrap' containerization enabled
+2022-10-12T11:51:24.716299+00:00 DEBUG 'ansible-runner.wrap_args_for_containerization' container engine invocation: podman run --rm --tty --interactive -v /home/bthornto/github/fest22/:/home/bthornto/github/fest22/ --workdir /home/bthornto/github/fest22 -v /run/user/1000/keyring/:/run/user/1000/keyring/ -e SSH_AUTH_SOCK=/run/user/1000/keyring/ssh -v /home/bthornto/.ssh/:/home/runner/.ssh/ -v /home/bthornto/.ssh/:/root/.ssh/ --group-add=root --ipc=host -v /tmp/ansible-navigator_1i9jt10r/artifacts/:/runner/artifacts/:Z -v /tmp/ansible-navigator_1i9jt10r/:/runner/:Z --env-file /tmp/ansible-navigator_1i9jt10r/artifacts/6132c6d5-cc45-4321-a3b7-52c36f4d038a/env.list --quiet --name ansible_runner_6132c6d5-cc45-4321-a3b7-52c36f4d038a localhost/fest22:latest ansible-playbook /home/bthornto/github/fest22/site.yaml
+2022-10-12T11:51:24.716411+00:00 DEBUG 'ansible-runner._handle_command_wrap' command: podman run --rm --tty --interactive -v /home/bthornto/github/fest22/:/home/bthornto/github/fest22/ --workdir /home/bthornto/github/fest22 -v /run/user/1000/keyring/:/run/user/1000/keyring/ -e SSH_AUTH_SOCK=/run/user/1000/keyring/ssh -v /home/bthornto/.ssh/:/home/runner/.ssh/ -v /home/bthornto/.ssh/:/root/.ssh/ --group-add=root --ipc=host -v /tmp/ansible-navigator_1i9jt10r/artifacts/:/runner/artifacts/:Z -v /tmp/ansible-navigator_1i9jt10r/:/runner/:Z --env-file /tmp/ansible-navigator_1i9jt10r/artifacts/6132c6d5-cc45-4321-a3b7-52c36f4d038a/env.list --quiet --name ansible_runner_6132c6d5-cc45-4321-a3b7-52c36f4d038a localhost/fest22:latest ansible-playbook /home/bthornto/github/fest22/site.yaml
+2022-10-12T11:51:24.716922+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._run_runner' runner requested to start
+2022-10-12T11:51:24.717009+00:00 INFO 'ansible_navigator.actions.run_e1fe._init_run' Run initialized and playbook started.
+2022-10-12T11:51:24.717284+00:00 DEBUG 'ansible_navigator.ui_framework.curses_window.__init__' self._ui_config: UIConfig(color=True, colors_initialized=True, grammar_dir='/home/bthornto/github/fest22/venv/share/ansible_navigator/grammar', osc4=True, terminal_colors_path='/home/bthornto/github/fest22/venv/share/ansible_navigator/themes/terminal_colors.json', theme_path='/home/bthornto/github/fest22/venv/share/ansible_navigator/themes/dark_vs.json')
+2022-10-12T11:51:24.735012+00:00 DEBUG 'ansible_navigator.ui_framework.curses_window.__init__' self._ui_config: UIConfig(color=True, colors_initialized=True, grammar_dir='/home/bthornto/github/fest22/venv/share/ansible_navigator/grammar', osc4=True, terminal_colors_path='/home/bthornto/github/fest22/venv/share/ansible_navigator/themes/terminal_colors.json', theme_path='/home/bthornto/github/fest22/venv/share/ansible_navigator/themes/dark_vs.json')
+2022-10-12T11:51:26.793694+00:00 DEBUG 'ansible_navigator.runner.base._event_handler' ansible-runner event handle: {'event': 'verbose', 'uuid': '1e0593c6-0174-4b25-b4d4-bac4848abc80', 'counter': 1, 'stdout': '\x1b[1;35m[WARNING]: provided hosts list is empty, only localhost is available. Note that\x1b[0m', 'start_line': 0, 'end_line': 1, 'runner_ident': '6132c6d5-cc45-4321-a3b7-52c36f4d038a', 'created': '2022-10-12T11:51:26.793645'}
+2022-10-12T11:51:26.794171+00:00 CRITICAL 'ansible_navigator.actions.run_e1fe._handle_message' Unhandled message from runner queue, discarded: {'event': 'verbose', 'uuid': '1e0593c6-0174-4b25-b4d4-bac4848abc80', 'counter': 1, 'stdout': '\x1b[1;35m[WARNING]: provided hosts list is empty, only localhost is available. Note that\x1b[0m', 'start_line': 0, 'end_line': 1, 'runner_ident': '6132c6d5-cc45-4321-a3b7-52c36f4d038a', 'created': '2022-10-12T11:51:26.793645'}
+2022-10-12T11:51:26.794258+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._dequeue' Drained 1 events
+2022-10-12T11:51:26.795228+00:00 DEBUG 'ansible_navigator.runner.base._event_handler' ansible-runner event handle: {'event': 'verbose', 'uuid': 'f6d559d2-7b89-454f-a424-0c10bb55a4ad', 'counter': 2, 'stdout': "\x1b[1;35mthe implicit localhost does not match 'all'\x1b[0m", 'start_line': 1, 'end_line': 2, 'runner_ident': '6132c6d5-cc45-4321-a3b7-52c36f4d038a', 'created': '2022-10-12T11:51:26.795208'}
+2022-10-12T11:51:26.897610+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._take_step' autoscroll enabled
+2022-10-12T11:51:26.897790+00:00 CRITICAL 'ansible_navigator.actions.run_e1fe._handle_message' Unhandled message from runner queue, discarded: {'event': 'verbose', 'uuid': 'f6d559d2-7b89-454f-a424-0c10bb55a4ad', 'counter': 2, 'stdout': "\x1b[1;35mthe implicit localhost does not match 'all'\x1b[0m", 'start_line': 1, 'end_line': 2, 'runner_ident': '6132c6d5-cc45-4321-a3b7-52c36f4d038a', 'created': '2022-10-12T11:51:26.795208'}
+2022-10-12T11:51:26.897843+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._dequeue' Drained 1 events
+2022-10-12T11:51:26.988021+00:00 DEBUG 'ansible_navigator.runner.base._event_handler' ansible-runner event handle: {'uuid': '7efac774-dd94-4630-a9c5-9cff8ecb9c18', 'counter': 3, 'stdout': '', 'start_line': 2, 'end_line': 2, 'runner_ident': '6132c6d5-cc45-4321-a3b7-52c36f4d038a', 'event': 'playbook_on_start', 'pid': 21, 'created': '2022-10-12T11:51:26.987194', 'event_data': {'playbook': '/home/bthornto/github/fest22/site.yaml', 'playbook_uuid': '7efac774-dd94-4630-a9c5-9cff8ecb9c18', 'uuid': '7efac774-dd94-4630-a9c5-9cff8ecb9c18'}}
+2022-10-12T11:51:26.989366+00:00 DEBUG 'ansible_navigator.runner.base._event_handler' ansible-runner event handle: {'uuid': 'c20458ca-4488-7458-3f1b-000000000005', 'counter': 4, 'stdout': '\r\nPLAY [localhost] ***************************************************************', 'start_line': 2, 'end_line': 4, 'runner_ident': '6132c6d5-cc45-4321-a3b7-52c36f4d038a', 'event': 'playbook_on_play_start', 'pid': 21, 'created': '2022-10-12T11:51:26.988806', 'parent_uuid': '7efac774-dd94-4630-a9c5-9cff8ecb9c18', 'event_data': {'playbook': '/home/bthornto/github/fest22/site.yaml', 'playbook_uuid': '7efac774-dd94-4630-a9c5-9cff8ecb9c18', 'play': 'localhost', 'play_uuid': 'c20458ca-4488-7458-3f1b-000000000005', 'play_pattern': 'localhost', 'name': 'localhost', 'pattern': 'localhost', 'uuid': 'c20458ca-4488-7458-3f1b-000000000005'}}
+2022-10-12T11:51:26.999411+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._dequeue' Drained 2 events
+2022-10-12T11:51:27.052197+00:00 DEBUG 'ansible_navigator.runner.base._event_handler' ansible-runner event handle: {'uuid': 'c20458ca-4488-7458-3f1b-000000000007', 'counter': 5, 'stdout': '\r\nTASK [Retrieve a repository from a distant location and make it available locally] ***', 'start_line': 4, 'end_line': 6, 'runner_ident': '6132c6d5-cc45-4321-a3b7-52c36f4d038a', 'event': 'playbook_on_task_start', 'pid': 21, 'created': '2022-10-12T11:51:27.051484', 'parent_uuid': 'c20458ca-4488-7458-3f1b-000000000005', 'event_data': {'playbook': '/home/bthornto/github/fest22/site.yaml', 'playbook_uuid': '7efac774-dd94-4630-a9c5-9cff8ecb9c18', 'play': 'localhost', 'play_uuid': 'c20458ca-4488-7458-3f1b-000000000005', 'play_pattern': 'localhost', 'task': 'Retrieve a repository from a distant location and make it available locally', 'task_uuid': 'c20458ca-4488-7458-3f1b-000000000007', 'task_action': 'ansible.scm.git_here', 'resolved_action': 'ansible.scm.git_here', 'task_args': '', 'task_path': '/home/bthornto/github/fest22/site.yaml:4', 'name': 'Retrieve a repository from a distant location and make it available locally', 'is_conditional': False, 'uuid': 'c20458ca-4488-7458-3f1b-000000000007'}}
+2022-10-12T11:51:27.052767+00:00 DEBUG 'ansible_navigator.runner.base._event_handler' ansible-runner event handle: {'uuid': '733b3a69-7d7f-48b5-bf02-e9dd530640ea', 'counter': 6, 'stdout': '', 'start_line': 6, 'end_line': 6, 'runner_ident': '6132c6d5-cc45-4321-a3b7-52c36f4d038a', 'event': 'runner_on_start', 'pid': 21, 'created': '2022-10-12T11:51:27.052244', 'parent_uuid': 'c20458ca-4488-7458-3f1b-000000000007', 'event_data': {'playbook': '/home/bthornto/github/fest22/site.yaml', 'playbook_uuid': '7efac774-dd94-4630-a9c5-9cff8ecb9c18', 'play': 'localhost', 'play_uuid': 'c20458ca-4488-7458-3f1b-000000000005', 'play_pattern': 'localhost', 'task': 'Retrieve a repository from a distant location and make it available locally', 'task_uuid': 'c20458ca-4488-7458-3f1b-000000000007', 'task_action': 'ansible.scm.git_here', 'resolved_action': 'ansible.scm.git_here', 'task_args': '', 'task_path': '/home/bthornto/github/fest22/site.yaml:4', 'host': 'localhost', 'uuid': '733b3a69-7d7f-48b5-bf02-e9dd530640ea'}}
+2022-10-12T11:51:27.101195+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._dequeue' Drained 2 events
+2022-10-12T11:51:28.821835+00:00 DEBUG 'ansible_navigator.runner.base._event_handler' ansible-runner event handle: {'uuid': '3edaf3e6-1a6a-49dd-b347-2a1199095f9a', 'counter': 7, 'stdout': '\x1b[0;33mchanged: [localhost]\x1b[0m', 'start_line': 6, 'end_line': 7, 'runner_ident': '6132c6d5-cc45-4321-a3b7-52c36f4d038a', 'event': 'runner_on_ok', 'pid': 21, 'created': '2022-10-12T11:51:28.820979', 'parent_uuid': 'c20458ca-4488-7458-3f1b-000000000007', 'event_data': {'playbook': '/home/bthornto/github/fest22/site.yaml', 'playbook_uuid': '7efac774-dd94-4630-a9c5-9cff8ecb9c18', 'play': 'localhost', 'play_uuid': 'c20458ca-4488-7458-3f1b-000000000005', 'play_pattern': 'localhost', 'task': 'Retrieve a repository from a distant location and make it available locally', 'task_uuid': 'c20458ca-4488-7458-3f1b-000000000007', 'task_action': 'ansible.scm.git_here', 'resolved_action': 'ansible.scm.git_here', 'task_args': '', 'task_path': '/home/bthornto/github/fest22/site.yaml:4', 'host': 'localhost', 'remote_addr': '127.0.0.1', 'res': {'changed': True, 'msg': 'Successfully retrieved repository: git@github.com:cidrblock/fest22.git', 'output': [{'command': 'git -C /tmp/tmpd90drz7j clone --depth=1 --progress --no-single-branch git@github.com:cidrblock/fest22.git', 'env': '', 'stdout_lines': [], 'stderr_lines': ["Cloning into 'fest22'...", 'remote: Enumerating objects: 14, done.        ', 'remote: Counting objects:   7% (1/14)        ', 'remote: Counting objects:  14% (2/14)        ', 'remote: Counting objects:  21% (3/14)        ', 'remote: Counting objects:  28% (4/14)        ', 'remote: Counting objects:  35% (5/14)        ', 'remote: Counting objects:  42% (6/14)        ', 'remote: Counting objects:  50% (7/14)        ', 'remote: Counting objects:  57% (8/14)        ', 'remote: Counting objects:  64% (9/14)        ', 'remote: Counting objects:  71% (10/14)        ', 'remote: Counting objects:  78% (11/14)        ', 'remote: Counting objects:  85% (12/14)        ', 'remote: Counting objects:  92% (13/14)        ', 'remote: Counting objects: 100% (14/14)        ', 'remote: Counting objects: 100% (14/14), done.        ', 'remote: Compressing objects:   9% (1/11)        ', 'remote: Compressing objects:  18% (2/11)        ', 'remote: Compressing objects:  27% (3/11)        ', 'remote: Compressing objects:  36% (4/11)        ', 'remote: Compressing objects:  45% (5/11)        ', 'remote: Compressing objects:  54% (6/11)        ', 'remote: Compressing objects:  63% (7/11)        ', 'remote: Compressing objects:  72% (8/11)        ', 'remote: Compressing objects:  81% (9/11)        ', 'remote: Compressing objects:  90% (10/11)        ', 'remote: Compressing objects: 100% (11/11)        ', 'remote: Compressing objects: 100% (11/11), done.        ', 'Receiving objects:   7% (1/14)', 'Receiving objects:  14% (2/14)', 'Receiving objects:  21% (3/14)', 'Receiving objects:  28% (4/14)', 'Receiving objects:  35% (5/14)', 'Receiving objects:  42% (6/14)', 'Receiving objects:  50% (7/14)', 'Receiving objects:  57% (8/14)', 'Receiving objects:  64% (9/14)', 'Receiving objects:  71% (10/14)', 'Receiving objects:  78% (11/14)', 'Receiving objects:  85% (12/14)', 'Receiving objects:  92% (13/14)', 'Receiving objects: 100% (14/14)', 'Receiving objects: 100% (14/14), done.', 'remote: Total 14 (delta 1), reused 14 (delta 1), pack-reused 0        ', 'Resolving deltas:   0% (0/1)', 'Resolving deltas: 100% (1/1)', 'Resolving deltas: 100% (1/1), done.'], 'return_code': 0}, {'command': 'git -C /tmp/tmpd90drz7j/fest22 branch -a', 'env': '', 'stdout_lines': ['* main', '  remotes/origin/HEAD -> origin/main', '  remotes/origin/main'], 'stderr_lines': [], 'return_code': 0}, {'command': 'git -C /tmp/tmpd90drz7j/fest22 checkout -t -b ansible-localhost-2022-10-12T115128.809289+0000', 'env': '', 'stdout_lines': ["Branch 'ansible-localhost-2022-10-12T115128.809289+0000' set up to track local branch 'main'."], 'stderr_lines': ["Switched to a new branch 'ansible-localhost-2022-10-12T115128.809289+0000'"], 'return_code': 0}], 'branch_name': 'ansible-localhost-2022-10-12T115128.809289+0000', 'branches': ['main', 'main', 'main'], 'name': 'fest22', 'path': '/tmp/tmpd90drz7j/fest22', '_ansible_no_log': None}, 'start': '2022-10-12T11:51:27.052180', 'end': '2022-10-12T11:51:28.820839', 'duration': 1.768659, 'event_loop': None, 'uuid': '3edaf3e6-1a6a-49dd-b347-2a1199095f9a'}}
+2022-10-12T11:51:28.828435+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._dequeue' Drained 1 events
+2022-10-12T11:51:28.829221+00:00 DEBUG 'ansible_navigator.runner.base._event_handler' ansible-runner event handle: {'uuid': 'c20458ca-4488-7458-3f1b-000000000008', 'counter': 8, 'stdout': '\r\nTASK [Collect sample json from a REST API] *************************************', 'start_line': 7, 'end_line': 9, 'runner_ident': '6132c6d5-cc45-4321-a3b7-52c36f4d038a', 'event': 'playbook_on_task_start', 'pid': 21, 'created': '2022-10-12T11:51:28.827730', 'parent_uuid': 'c20458ca-4488-7458-3f1b-000000000005', 'event_data': {'playbook': '/home/bthornto/github/fest22/site.yaml', 'playbook_uuid': '7efac774-dd94-4630-a9c5-9cff8ecb9c18', 'play': 'localhost', 'play_uuid': 'c20458ca-4488-7458-3f1b-000000000005', 'play_pattern': 'localhost', 'task': 'Collect sample json from a REST API', 'task_uuid': 'c20458ca-4488-7458-3f1b-000000000008', 'task_action': 'ansible.builtin.get_url', 'resolved_action': 'ansible.builtin.get_url', 'task_args': '', 'task_path': '/home/bthornto/github/fest22/site.yaml:10', 'name': 'Collect sample json from a REST API', 'is_conditional': False, 'uuid': 'c20458ca-4488-7458-3f1b-000000000008'}}
+2022-10-12T11:51:28.829630+00:00 DEBUG 'ansible_navigator.runner.base._event_handler' ansible-runner event handle: {'uuid': 'f66e6085-0269-403b-b810-3ad2d0e49c2d', 'counter': 9, 'stdout': '', 'start_line': 9, 'end_line': 9, 'runner_ident': '6132c6d5-cc45-4321-a3b7-52c36f4d038a', 'event': 'runner_on_start', 'pid': 21, 'created': '2022-10-12T11:51:28.828294', 'parent_uuid': 'c20458ca-4488-7458-3f1b-000000000008', 'event_data': {'playbook': '/home/bthornto/github/fest22/site.yaml', 'playbook_uuid': '7efac774-dd94-4630-a9c5-9cff8ecb9c18', 'play': 'localhost', 'play_uuid': 'c20458ca-4488-7458-3f1b-000000000005', 'play_pattern': 'localhost', 'task': 'Collect sample json from a REST API', 'task_uuid': 'c20458ca-4488-7458-3f1b-000000000008', 'task_action': 'ansible.builtin.get_url', 'resolved_action': 'ansible.builtin.get_url', 'task_args': '', 'task_path': '/home/bthornto/github/fest22/site.yaml:10', 'host': 'localhost', 'uuid': 'f66e6085-0269-403b-b810-3ad2d0e49c2d'}}
+2022-10-12T11:51:28.930304+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._dequeue' Drained 2 events
+2022-10-12T11:51:30.085785+00:00 DEBUG 'ansible_navigator.runner.base._event_handler' ansible-runner event handle: {'uuid': '72beaba2-34d5-4a2f-9c76-95964b324a65', 'counter': 10, 'stdout': '\x1b[0;33mchanged: [localhost]\x1b[0m', 'start_line': 9, 'end_line': 10, 'runner_ident': '6132c6d5-cc45-4321-a3b7-52c36f4d038a', 'event': 'runner_on_ok', 'pid': 21, 'created': '2022-10-12T11:51:30.084784', 'parent_uuid': 'c20458ca-4488-7458-3f1b-000000000008', 'event_data': {'playbook': '/home/bthornto/github/fest22/site.yaml', 'playbook_uuid': '7efac774-dd94-4630-a9c5-9cff8ecb9c18', 'play': 'localhost', 'play_uuid': 'c20458ca-4488-7458-3f1b-000000000005', 'play_pattern': 'localhost', 'task': 'Collect sample json from a REST API', 'task_uuid': 'c20458ca-4488-7458-3f1b-000000000008', 'task_action': 'ansible.builtin.get_url', 'resolved_action': 'ansible.builtin.get_url', 'task_args': '', 'task_path': '/home/bthornto/github/fest22/site.yaml:10', 'host': 'localhost', 'remote_addr': '127.0.0.1', 'res': {'msg': 'OK (unknown bytes)', 'status_code': 200, 'changed': True, 'checksum_dest': None, 'checksum_src': '296e4b2f16b210a1c2f1382edd2c773f9a5569ea', 'dest': '/tmp/tmpd90drz7j/fest22/response.json', 'elapsed': 0, 'url': 'https://random-data-api.com/api/beer/random_beer', 'src': '/home/runner/.ansible/tmp/ansible-tmp-1665575488.8631449-38-279178644756868/tmpdedz1kb4', 'md5sum': 'fcff66a51b8328d992814d995a8a636f', 'uid': 0, 'gid': 0, 'owner': 'root', 'group': 'root', 'mode': '0644', 'state': 'file', 'size': 256, 'invocation': {'module_args': {'url': 'https://random-data-api.com/api/beer/random_beer', 'dest': '/tmp/tmpd90drz7j/fest22/response.json', 'mode': 420, 'unsafe_writes': True, 'force': False, 'http_agent': 'ansible-httpget', 'use_proxy': True, 'validate_certs': True, 'force_basic_auth': False, 'use_gssapi': False, 'backup': False, 'sha256sum': '', 'checksum': '', 'timeout': 10, 'unredirected_headers': [], 'url_username': None, 'url_password': None, 'client_cert': None, 'client_key': None, 'headers': None, 'tmp_dest': None, 'owner': None, 'group': None, 'seuser': None, 'serole': None, 'selevel': None, 'setype': None, 'attributes': None}}, '_ansible_no_log': None}, 'start': '2022-10-12T11:51:28.828243', 'end': '2022-10-12T11:51:30.084575', 'duration': 1.256332, 'event_loop': None, 'uuid': '72beaba2-34d5-4a2f-9c76-95964b324a65'}}
+2022-10-12T11:51:30.107324+00:00 DEBUG 'ansible_navigator.runner.base._event_handler' ansible-runner event handle: {'uuid': 'c20458ca-4488-7458-3f1b-000000000009', 'counter': 11, 'stdout': '\r\nTASK [Pust the changes back to the origin repository] **************************', 'start_line': 10, 'end_line': 12, 'runner_ident': '6132c6d5-cc45-4321-a3b7-52c36f4d038a', 'event': 'playbook_on_task_start', 'pid': 21, 'created': '2022-10-12T11:51:30.106700', 'parent_uuid': 'c20458ca-4488-7458-3f1b-000000000005', 'event_data': {'playbook': '/home/bthornto/github/fest22/site.yaml', 'playbook_uuid': '7efac774-dd94-4630-a9c5-9cff8ecb9c18', 'play': 'localhost', 'play_uuid': 'c20458ca-4488-7458-3f1b-000000000005', 'play_pattern': 'localhost', 'task': 'Pust the changes back to the origin repository', 'task_uuid': 'c20458ca-4488-7458-3f1b-000000000009', 'task_action': 'ansible.scm.git_away', 'resolved_action': 'ansible.scm.git_away', 'task_args': '', 'task_path': '/home/bthornto/github/fest22/site.yaml:16', 'name': 'Pust the changes back to the origin repository', 'is_conditional': False, 'uuid': 'c20458ca-4488-7458-3f1b-000000000009'}}
+2022-10-12T11:51:30.107876+00:00 DEBUG 'ansible_navigator.runner.base._event_handler' ansible-runner event handle: {'uuid': 'a68ad535-a0bb-40f3-991c-0daa5ea2904f', 'counter': 12, 'stdout': '', 'start_line': 12, 'end_line': 12, 'runner_ident': '6132c6d5-cc45-4321-a3b7-52c36f4d038a', 'event': 'runner_on_start', 'pid': 21, 'created': '2022-10-12T11:51:30.107355', 'parent_uuid': 'c20458ca-4488-7458-3f1b-000000000009', 'event_data': {'playbook': '/home/bthornto/github/fest22/site.yaml', 'playbook_uuid': '7efac774-dd94-4630-a9c5-9cff8ecb9c18', 'play': 'localhost', 'play_uuid': 'c20458ca-4488-7458-3f1b-000000000005', 'play_pattern': 'localhost', 'task': 'Pust the changes back to the origin repository', 'task_uuid': 'c20458ca-4488-7458-3f1b-000000000009', 'task_action': 'ansible.scm.git_away', 'resolved_action': 'ansible.scm.git_away', 'task_args': '', 'task_path': '/home/bthornto/github/fest22/site.yaml:16', 'host': 'localhost', 'uuid': 'a68ad535-a0bb-40f3-991c-0daa5ea2904f'}}
+2022-10-12T11:51:30.149271+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._dequeue' Drained 3 events
+2022-10-12T11:51:31.860371+00:00 DEBUG 'ansible_navigator.runner.base._event_handler' ansible-runner event handle: {'uuid': 'faf15da4-5a5b-46c7-9fa5-706215da04ba', 'counter': 13, 'stdout': '\x1b[0;33mchanged: [localhost]\x1b[0m', 'start_line': 12, 'end_line': 13, 'runner_ident': '6132c6d5-cc45-4321-a3b7-52c36f4d038a', 'event': 'runner_on_ok', 'pid': 21, 'created': '2022-10-12T11:51:31.859549', 'parent_uuid': 'c20458ca-4488-7458-3f1b-000000000009', 'event_data': {'playbook': '/home/bthornto/github/fest22/site.yaml', 'playbook_uuid': '7efac774-dd94-4630-a9c5-9cff8ecb9c18', 'play': 'localhost', 'play_uuid': 'c20458ca-4488-7458-3f1b-000000000005', 'play_pattern': 'localhost', 'task': 'Pust the changes back to the origin repository', 'task_uuid': 'c20458ca-4488-7458-3f1b-000000000009', 'task_action': 'ansible.scm.git_away', 'resolved_action': 'ansible.scm.git_away', 'task_args': '', 'task_path': '/home/bthornto/github/fest22/site.yaml:16', 'host': 'localhost', 'remote_addr': '127.0.0.1', 'res': {'changed': True, 'msg': 'Successfully published local changes from: /tmp/tmpd90drz7j/fest22', 'output': [{'command': 'git -C /tmp/tmpd90drz7j/fest22 config --get user.name', 'env': '', 'stdout_lines': [], 'stderr_lines': [], 'return_code': 1}, {'command': 'git -C /tmp/tmpd90drz7j/fest22 config user.name ansible', 'env': '', 'stdout_lines': [], 'stderr_lines': [], 'return_code': 0}, {'command': 'git -C /tmp/tmpd90drz7j/fest22 config --get user.email', 'env': '', 'stdout_lines': [], 'stderr_lines': [], 'return_code': 1}, {'command': 'git -C /tmp/tmpd90drz7j/fest22 config user.email ansible@localhost', 'env': '', 'stdout_lines': [], 'stderr_lines': [], 'return_code': 0}, {'command': 'git -C /tmp/tmpd90drz7j/fest22 add --all', 'env': '', 'stdout_lines': [], 'stderr_lines': [], 'return_code': 0}, {'command': "git -C /tmp/tmpd90drz7j/fest22 commit --allow-empty -m 'Updates made by ansible with play: localhost'", 'env': '', 'stdout_lines': ['[ansible-localhost-2022-10-12T115128.809289+0000 b419d31] Updates made by ansible with play: localhost', ' 1 file changed, 1 insertion(+)', ' create mode 100644 response.json'], 'stderr_lines': [], 'return_code': 0}, {'command': 'git -C /tmp/tmpd90drz7j/fest22 remote -v', 'env': '', 'stdout_lines': ['origin\tgit@github.com:cidrblock/fest22.git (fetch)', 'origin\tgit@github.com:cidrblock/fest22.git (push)'], 'stderr_lines': [], 'return_code': 0}, {'command': 'git -C /tmp/tmpd90drz7j/fest22 push origin', 'env': '', 'stdout_lines': [], 'stderr_lines': ['remote: ', "remote: Create a pull request for 'ansible-localhost-2022-10-12T115128.809289+0000' on GitHub by visiting:        ", 'remote:      https://github.com/cidrblock/fest22/pull/new/ansible-localhost-2022-10-12T115128.809289+0000        ', 'remote: ', 'To github.com:cidrblock/fest22.git', ' * [new branch]      ansible-localhost-2022-10-12T115128.809289+0000 -> ansible-localhost-2022-10-12T115128.809289+0000'], 'return_code': 0}], 'user_name': 'ansible', 'user_email': 'ansible@localhost', 'pr_url': 'https://github.com/cidrblock/fest22/pull/new/ansible-localhost-2022-10-12T115128.809289+0000', '_ansible_no_log': None}, 'start': '2022-10-12T11:51:30.107300', 'end': '2022-10-12T11:51:31.859373', 'duration': 1.752073, 'event_loop': None, 'uuid': 'faf15da4-5a5b-46c7-9fa5-706215da04ba'}}
+2022-10-12T11:51:31.875085+00:00 DEBUG 'ansible_navigator.runner.base._event_handler' ansible-runner event handle: {'uuid': 'd2428347-8d1b-49c0-aace-e4c23bdb0182', 'counter': 14, 'stdout': '\r\nPLAY RECAP *********************************************************************\r\n\x1b[0;33mlocalhost\x1b[0m                  : \x1b[0;32mok=3   \x1b[0m \x1b[0;33mchanged=3   \x1b[0m unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   ', 'start_line': 13, 'end_line': 17, 'runner_ident': '6132c6d5-cc45-4321-a3b7-52c36f4d038a', 'event': 'playbook_on_stats', 'pid': 21, 'created': '2022-10-12T11:51:31.874557', 'parent_uuid': '7efac774-dd94-4630-a9c5-9cff8ecb9c18', 'event_data': {'playbook': '/home/bthornto/github/fest22/site.yaml', 'playbook_uuid': '7efac774-dd94-4630-a9c5-9cff8ecb9c18', 'changed': {'localhost': 3}, 'dark': {}, 'failures': {}, 'ignored': {}, 'ok': {'localhost': 3}, 'processed': {'localhost': 1}, 'rescued': {}, 'skipped': {}, 'artifact_data': {}, 'uuid': 'd2428347-8d1b-49c0-aace-e4c23bdb0182'}}
+2022-10-12T11:51:31.876943+00:00 DEBUG 'ansible_navigator.actions.run_e1fe._dequeue' Drained 2 events
+2022-10-12T11:51:32.372887+00:00 DEBUG 'ansible_navigator.runner.base.runner_artifacts_handler' ansible-runner artifact_dir set to: '/tmp/ansible-navigator_1i9jt10r/artifacts/6132c6d5-cc45-4321-a3b7-52c36f4d038a'
+2022-10-12T11:51:32.385751+00:00 DEBUG 'ansible_navigator.actions.run_e1fe.update' runner finished
+2022-10-12T11:51:32.385835+00:00 INFO 'ansible_navigator.actions.run_e1fe.update' Playbook complete
+2022-10-12T11:51:32.385981+00:00 DEBUG 'ansible_navigator.actions.run_e1fe.write_artifact' Formatted artifact file name set to /home/bthornto/github/fest22/site-artifact-2022-10-12T11:51:32.385968+00:00.json
+2022-10-12T11:51:32.386036+00:00 DEBUG 'ansible_navigator.actions.run_e1fe.write_artifact' Resolved artifact file name set to /home/bthornto/github/fest22/site-artifact-2022-10-12T11:51:32.385968+00:00.json
+2022-10-12T11:51:32.387981+00:00 INFO 'ansible_navigator.actions.run_e1fe.write_artifact' Saved artifact as /home/bthornto/github/fest22/site-artifact-2022-10-12T11:51:32.385968+00:00.json
+2022-10-12T11:53:18.514792+00:00 WARNING 'ansible_navigator.run' Dirty exit, killing the pid
