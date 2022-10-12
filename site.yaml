@@ -7,7 +7,7 @@
         url: git@github.com:cidrblock/fest22.git
     register: cloned_repo
 
-  - name: Collect sample json from a REST API
+  - name: Collect sample json from a REST API and save in repository
     ansible.builtin.get_url:
       url: https://random-data-api.com/api/beer/random_beer
       dest: "{{ cloned_repo['path'] }}/response.json"
