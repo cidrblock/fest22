@@ -6,5 +6,9 @@ build_arg_defaults:
 
 dependencies:
   galaxy: requirements.yml
-  system: ""
+  system: bindep.txt
   python: requirements.txt
+
+additional_build_steps:
+  prepend: |
+    RUN microdnf remove ansible-lint
