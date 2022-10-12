@@ -1,0 +1,10 @@
+---
+version: 1
+
+build_arg_defaults:
+  EE_BASE_IMAGE: "registry.redhat.io/ansible-automation-platform-22/ee-minimal-rhel8:latest"
+
+dependencies:
+  galaxy: requirements.yml
+  system: ""
+  python: requirements.txt

@@ -1,0 +1,4 @@
+---
+collections:
+  - git+https://github.com/ansible-network/ansible.scm
+  
