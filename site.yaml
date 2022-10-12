@@ -13,7 +13,6 @@
       dest: "{{ cloned_repo['path'] }}/response.json"
       mode: 0644
 
-  - name: Pust the changes back to the origin repository
+  - name: Push the changes back to the origin repository
     ansible.scm.git_away:
       path: "{{ cloned_repo['path'] }}"
-
